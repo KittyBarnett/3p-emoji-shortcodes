@@ -1,0 +1,558 @@
+# French
+# Nathan <bonnemainsnathan@gmail.com>, 2020.
+# Simon Picot <simonpicot06@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-17 14:53-0700\n"
+"PO-Revision-Date: 2021-09-17 16:25-0700\n"
+"Last-Translator: Miles Johnson\n"
+"Language-Team: French <https://hosted.weblate.org/projects/emojibase/emoji-"
+"metadata/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 3.0\n"
+
+#, javascript-format
+msgctxt ""
+"LABEL: Denotes a countries flag using alphabetical characters (usa = United "
+"States)"
+msgid "regional indicator %s"
+msgstr "indicateur régional %s"
+
+msgctxt ""
+"LABEL: Very short word for skin tone and/or color (max 1 word if possible)"
+msgid "tone"
+msgstr "couleur"
+
+msgctxt "LABEL: Name of the asterisk symbol (*)"
+msgid "asterisk"
+msgstr "astérisque"
+
+msgctxt "LABEL: Name of the number sign/hash symbol (#)"
+msgid "number sign"
+msgstr "signe numérique"
+
+#, fuzzy
+msgctxt "SKIN TONE: light"
+msgid "light skin tone"
+msgstr "teint clair"
+
+#, fuzzy
+msgctxt "SKIN TONE: medium-light"
+msgid "medium-light skin tone"
+msgstr "teint moyen-clair"
+
+#, fuzzy
+msgctxt "SKIN TONE: medium"
+msgid "medium skin tone"
+msgstr "teint moyen"
+
+#, fuzzy
+msgctxt "SKIN TONE: medium-dark"
+msgid "medium-dark skin tone"
+msgstr "teint foncé moyen-foncé"
+
+#, fuzzy
+msgctxt "SKIN TONE: dark"
+msgid "dark skin tone"
+msgstr "teint foncé"
+
+#, fuzzy
+msgctxt "EMOJI GROUP: 0|smileys-emotion"
+msgid "smileys & emotion"
+msgstr "smileys et émotion"
+
+#, fuzzy
+msgctxt "EMOJI GROUP: 1|people-body"
+msgid "people & body"
+msgstr "les gens et le corps"
+
+msgctxt "EMOJI GROUP: 2|component"
+msgid "components"
+msgstr "composants"
+
+#, fuzzy
+msgctxt "EMOJI GROUP: 3|animals-nature"
+msgid "animals & nature"
+msgstr "animaux et la nature"
+
+#, fuzzy
+msgctxt "EMOJI GROUP: 4|food-drink"
+msgid "food & drink"
+msgstr "nourriture et boissons"
+
+#, fuzzy
+msgctxt "EMOJI GROUP: 5|travel-places"
+msgid "travel & places"
+msgstr "voyages et lieux"
+
+msgctxt "EMOJI GROUP: 6|activities, EMOJI SUB-GROUP: 26|person-activity"
+msgid "activities"
+msgstr "activités"
+
+msgctxt "EMOJI GROUP: 7|objects"
+msgid "objects"
+msgstr "objets"
+
+msgctxt "EMOJI GROUP: 8|symbols"
+msgid "symbols"
+msgstr "symboles"
+
+msgctxt "EMOJI GROUP: 9|flags"
+msgid "flags"
+msgstr "drapeaux"
+
+msgctxt "EMOJI SUB-GROUP: 0|face-smiling"
+msgid "smiling"
+msgstr "souriant"
+
+msgctxt "EMOJI SUB-GROUP: 1|face-affection"
+msgid "affectionate"
+msgstr "affectueux"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 2|face-tongue"
+msgid "with tongue"
+msgstr "avec la langue"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 3|face-hand"
+msgid "with hands"
+msgstr "avec les mains"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 4|face-neutral-skeptical"
+msgid "neutral / skeptical"
+msgstr "neutre / sceptique"
+
+msgctxt "EMOJI SUB-GROUP: 5|face-sleepy"
+msgid "sleepy"
+msgstr "somnolent"
+
+msgctxt "EMOJI SUB-GROUP: 6|face-unwell"
+msgid "unwell"
+msgstr "malade"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 7|face-hat"
+msgid "with hats"
+msgstr "avec des chapeaux"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 8|face-glasses"
+msgid "with glasses"
+msgstr "avec des lunettes"
+
+msgctxt "EMOJI SUB-GROUP: 9|face-concerned"
+msgid "concerned"
+msgstr "concerné"
+
+msgctxt "EMOJI SUB-GROUP: 10|face-negative"
+msgid "negative"
+msgstr "négatif"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 11|face-costume"
+msgid "costumed & creatures"
+msgstr "costumés et créatures"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 12|cat-face"
+msgid "cat faces"
+msgstr "visages de chat"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 13|monkey-face"
+msgid "monkey faces"
+msgstr "visages de singe"
+
+msgctxt "EMOJI SUB-GROUP: 14|emotion"
+msgid "emotions"
+msgstr "émotions"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 15|hand-fingers-open"
+msgid "fingers open"
+msgstr "doigts ouverts"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 16|hand-fingers-partial"
+msgid "hand signs"
+msgstr "signes de la main"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 17|hand-single-finger"
+msgid "finger pointing"
+msgstr "pointage du doigt"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 18|hand-fingers-closed"
+msgid "fingers closed"
+msgstr "doigts fermés"
+
+msgctxt "EMOJI SUB-GROUP: 19|hands"
+msgid "hands"
+msgstr "mains"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 20|hand-prop"
+msgid "hand props"
+msgstr "accessoires à main"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 21|body-parts"
+msgid "body parts"
+msgstr "parties du corps"
+
+msgctxt "EMOJI SUB-GROUP: 22|person"
+msgid "people"
+msgstr "personnes"
+
+msgctxt "EMOJI SUB-GROUP: 23|person-gesture"
+msgid "gestures"
+msgstr "gestes"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 24|person-role"
+msgid "roles & careers"
+msgstr "rôles et carrières"
+
+msgctxt "EMOJI SUB-GROUP: 25|person-fantasy"
+msgid "fantasy"
+msgstr "fantaisie"
+
+msgctxt "EMOJI SUB-GROUP: 27|person-sport"
+msgid "athletics"
+msgstr "athlétisme"
+
+msgctxt "EMOJI SUB-GROUP: 28|person-resting"
+msgid "resting"
+msgstr "repos"
+
+msgctxt "EMOJI SUB-GROUP: 29|family"
+msgid "family"
+msgstr "famille"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 30|person-symbol"
+msgid "people symbols"
+msgstr "symboles de personnes"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 31|skin-tone"
+msgid "skin tones"
+msgstr "tons de peau"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 32|hair-style"
+msgid "hair styles"
+msgstr "styles de cheveux"
+
+msgctxt "EMOJI SUB-GROUP: 33|animal-mammal"
+msgid "mammals"
+msgstr "mammifères"
+
+msgctxt "EMOJI SUB-GROUP: 34|animal-bird"
+msgid "birds"
+msgstr "oiseaux"
+
+msgctxt "EMOJI SUB-GROUP: 35|animal-amphibian"
+msgid "amphibians"
+msgstr "amphibiens"
+
+msgctxt "EMOJI SUB-GROUP: 36|animal-reptile"
+msgid "reptiles"
+msgstr "reptiles"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 37|animal-marine"
+msgid "marine life"
+msgstr "vie marine"
+
+msgctxt "EMOJI SUB-GROUP: 38|animal-bug"
+msgid "bugs"
+msgstr "insectes"
+
+msgctxt "EMOJI SUB-GROUP: 39|plant-flower"
+msgid "flowers"
+msgstr "fleurs"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 40|plant-other"
+msgid "other plants"
+msgstr "d’autres plantes"
+
+msgctxt "EMOJI SUB-GROUP: 41|food-fruit"
+msgid "fruit"
+msgstr "fruit"
+
+msgctxt "EMOJI SUB-GROUP: 42|food-vegetable"
+msgid "vegetables"
+msgstr "légumes"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 43|food-prepared"
+msgid "cooked / prepared"
+msgstr "cuit / préparé"
+
+msgctxt "EMOJI SUB-GROUP: 44|food-asian"
+msgid "asian"
+msgstr "asiatique"
+
+msgctxt "EMOJI SUB-GROUP: 45|food-marine"
+msgid "seafood"
+msgstr "fruit de mer"
+
+msgctxt "EMOJI SUB-GROUP: 46|food-sweet"
+msgid "sweets & candy"
+msgstr "bonbons"
+
+msgctxt "EMOJI SUB-GROUP: 47|drink"
+msgid "drink"
+msgstr "boisson"
+
+msgctxt "EMOJI SUB-GROUP: 48|dishware"
+msgid "dishware"
+msgstr "vaisselle"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 49|place-map"
+msgid "globes & maps"
+msgstr "globes et cartes"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 50|place-geographic"
+msgid "geographic locations"
+msgstr "emplacements géographiques"
+
+msgctxt "EMOJI SUB-GROUP: 51|place-building"
+msgid "buildings"
+msgstr "bâtiments"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 52|place-religious"
+msgid "religious buildings"
+msgstr "édifices religieux"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 53|place-other"
+msgid "other places"
+msgstr "d’autres endroits"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 54|transport-ground"
+msgid "ground transportation"
+msgstr "transport terrestre"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 55|transport-water"
+msgid "water transportation"
+msgstr "transport par eau"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 56|transport-air"
+msgid "air transportation"
+msgstr "transport aérien"
+
+msgctxt "EMOJI SUB-GROUP: 57|hotel"
+msgid "hotel"
+msgstr "hôtel"
+
+msgctxt "EMOJI SUB-GROUP: 58|time"
+msgid "time"
+msgstr "temps"
+
+msgctxt "EMOJI SUB-GROUP: 59|sky-weather"
+msgid "weather"
+msgstr "meteo"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 60|event"
+msgid "events & holidays"
+msgstr "événements et jours fériés"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 61|award-medal"
+msgid "award medals"
+msgstr "médailles de prix"
+
+msgctxt "EMOJI SUB-GROUP: 62|sport"
+msgid "sports"
+msgstr "des sports"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 63|game"
+msgid "games & hobbies"
+msgstr "jeux et passe-temps"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 64|arts-crafts"
+msgid "arts & crafts"
+msgstr "arts et métiers"
+
+msgctxt "EMOJI SUB-GROUP: 65|clothing"
+msgid "clothing"
+msgstr "vêtements"
+
+msgctxt "EMOJI SUB-GROUP: 66|sound"
+msgid "sound"
+msgstr "bruit"
+
+msgctxt "EMOJI SUB-GROUP: 67|music"
+msgid "music"
+msgstr "musique"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 68|musical-instrument"
+msgid "musical instruments"
+msgstr "instruments de musique"
+
+msgctxt "EMOJI SUB-GROUP: 69|phone"
+msgid "phone"
+msgstr "téléphone"
+
+msgctxt "EMOJI SUB-GROUP: 70|computer"
+msgid "computer"
+msgstr "ordinateur"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 71|light-video"
+msgid "light, film & video"
+msgstr "lumière, film et vidéo"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 72|book-paper"
+msgid "books & paper"
+msgstr "livres et papier"
+
+msgctxt "EMOJI SUB-GROUP: 73|money"
+msgid "money"
+msgstr "argent"
+
+msgctxt "EMOJI SUB-GROUP: 74|mail"
+msgid "mail"
+msgstr "courrier"
+
+msgctxt "EMOJI SUB-GROUP: 75|writing"
+msgid "writing"
+msgstr "écrit"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 76|office"
+msgid "office supplies"
+msgstr "fournitures de bureau"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 77|lock"
+msgid "lock & keys"
+msgstr "serrure & clés"
+
+msgctxt "EMOJI SUB-GROUP: 78|tool"
+msgid "tools"
+msgstr "outils"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 79|science"
+msgid "science equipment"
+msgstr "équipement scientifique"
+
+msgctxt "EMOJI SUB-GROUP: 80|medical"
+msgid "medical"
+msgstr "médical"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 81|household"
+msgid "household items"
+msgstr "articles ménagers"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 82|other-object"
+msgid "other objects"
+msgstr "d’autres objets"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 83|transport-sign"
+msgid "transport signs"
+msgstr "panneaux de transport"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 84|warning"
+msgid "warning symbols"
+msgstr "symboles d’avertissement"
+
+msgctxt "EMOJI SUB-GROUP: 85|arrow"
+msgid "arrows"
+msgstr "flèches"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 86|religion"
+msgid "religious symbols"
+msgstr "symboles religieux"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 87|zodiac"
+msgid "zodiac signs"
+msgstr "signes du zodiaque"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 88|av-symbol"
+msgid "audio & video symbols"
+msgstr "symboles audio et vidéo"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 89|gender"
+msgid "gender signs"
+msgstr "signes de genre"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 90|math"
+msgid "math symbols"
+msgstr "symboles mathématiques"
+
+msgctxt "EMOJI SUB-GROUP: 91|punctuation"
+msgid "punctuation"
+msgstr "ponctuation"
+
+msgctxt "EMOJI SUB-GROUP: 92|currency"
+msgid "currencies"
+msgstr "devises"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 93|other-symbol"
+msgid "other symbols"
+msgstr "d’autres symboles"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 94|keycap"
+msgid "keypad characters"
+msgstr "caractères de clavier"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 95|alphanum"
+msgid "alphanumeric symbols"
+msgstr "symboles alphanumériques"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 96|geometric"
+msgid "shapes & colors"
+msgstr "formes et couleurs"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 97|flag"
+msgid "other flags"
+msgstr "autres drapeaux"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 98|country-flag"
+msgid "country flags"
+msgstr "drapeaux de pays"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 99|subdivision-flag"
+msgid "subdivision flags"
+msgstr "drapeaux de lotissement"

@@ -1,0 +1,557 @@
+# Ukrainian
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-17 14:53-0700\n"
+"PO-Revision-Date: 2021-09-17 16:44-0700\n"
+"Last-Translator: Miles Johnson\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 3.0\n"
+
+#, javascript-format
+msgctxt ""
+"LABEL: Denotes a countries flag using alphabetical characters (usa = United "
+"States)"
+msgid "regional indicator %s"
+msgstr "регіональний показник %s"
+
+msgctxt ""
+"LABEL: Very short word for skin tone and/or color (max 1 word if possible)"
+msgid "tone"
+msgstr "колір"
+
+msgctxt "LABEL: Name of the asterisk symbol (*)"
+msgid "asterisk"
+msgstr "зірочка"
+
+msgctxt "LABEL: Name of the number sign/hash symbol (#)"
+msgid "number sign"
+msgstr "знак числа"
+
+#, fuzzy
+msgctxt "SKIN TONE: light"
+msgid "light skin tone"
+msgstr "світлий тон шкіри"
+
+#, fuzzy
+msgctxt "SKIN TONE: medium-light"
+msgid "medium-light skin tone"
+msgstr "помірно світлий тон шкіри"
+
+#, fuzzy
+msgctxt "SKIN TONE: medium"
+msgid "medium skin tone"
+msgstr "помірний тон шкіри"
+
+#, fuzzy
+msgctxt "SKIN TONE: medium-dark"
+msgid "medium-dark skin tone"
+msgstr "помірно темний тон шкіри"
+
+#, fuzzy
+msgctxt "SKIN TONE: dark"
+msgid "dark skin tone"
+msgstr "темний тон шкіри"
+
+#, fuzzy
+msgctxt "EMOJI GROUP: 0|smileys-emotion"
+msgid "smileys & emotion"
+msgstr "смайлики &amp; емоції"
+
+#, fuzzy
+msgctxt "EMOJI GROUP: 1|people-body"
+msgid "people & body"
+msgstr "люди &amp; тіло"
+
+msgctxt "EMOJI GROUP: 2|component"
+msgid "components"
+msgstr "kомпоненти"
+
+#, fuzzy
+msgctxt "EMOJI GROUP: 3|animals-nature"
+msgid "animals & nature"
+msgstr "тварини &amp; природа"
+
+#, fuzzy
+msgctxt "EMOJI GROUP: 4|food-drink"
+msgid "food & drink"
+msgstr "їжа та напої"
+
+#, fuzzy
+msgctxt "EMOJI GROUP: 5|travel-places"
+msgid "travel & places"
+msgstr "подорожі та місця"
+
+msgctxt "EMOJI GROUP: 6|activities, EMOJI SUB-GROUP: 26|person-activity"
+msgid "activities"
+msgstr "діяльності"
+
+msgctxt "EMOJI GROUP: 7|objects"
+msgid "objects"
+msgstr "об'єктів"
+
+msgctxt "EMOJI GROUP: 8|symbols"
+msgid "symbols"
+msgstr "cимволи"
+
+msgctxt "EMOJI GROUP: 9|flags"
+msgid "flags"
+msgstr "прапори"
+
+msgctxt "EMOJI SUB-GROUP: 0|face-smiling"
+msgid "smiling"
+msgstr "посміхається"
+
+msgctxt "EMOJI SUB-GROUP: 1|face-affection"
+msgid "affectionate"
+msgstr "ласкавий"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 2|face-tongue"
+msgid "with tongue"
+msgstr "з язиком"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 3|face-hand"
+msgid "with hands"
+msgstr "руками"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 4|face-neutral-skeptical"
+msgid "neutral / skeptical"
+msgstr "нейтральний / скептичний"
+
+msgctxt "EMOJI SUB-GROUP: 5|face-sleepy"
+msgid "sleepy"
+msgstr "cонний"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 6|face-unwell"
+msgid "unwell"
+msgstr "нездужає"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 7|face-hat"
+msgid "with hats"
+msgstr "з капелюхами"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 8|face-glasses"
+msgid "with glasses"
+msgstr "в окулярах"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 9|face-concerned"
+msgid "concerned"
+msgstr "занепокоєні"
+
+msgctxt "EMOJI SUB-GROUP: 10|face-negative"
+msgid "negative"
+msgstr "негативний"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 11|face-costume"
+msgid "costumed & creatures"
+msgstr "костюмовані &amp; істоти"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 12|cat-face"
+msgid "cat faces"
+msgstr "кішка особи"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 13|monkey-face"
+msgid "monkey faces"
+msgstr "мавпа особи"
+
+msgctxt "EMOJI SUB-GROUP: 14|emotion"
+msgid "emotions"
+msgstr "емоції"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 15|hand-fingers-open"
+msgid "fingers open"
+msgstr "пальці відкриті"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 16|hand-fingers-partial"
+msgid "hand signs"
+msgstr "знаки руки"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 17|hand-single-finger"
+msgid "finger pointing"
+msgstr "вказівник пальця"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 18|hand-fingers-closed"
+msgid "fingers closed"
+msgstr "пальці закриті"
+
+msgctxt "EMOJI SUB-GROUP: 19|hands"
+msgid "hands"
+msgstr "pуки"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 20|hand-prop"
+msgid "hand props"
+msgstr "реквізит ручний"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 21|body-parts"
+msgid "body parts"
+msgstr "частини тіла"
+
+msgctxt "EMOJI SUB-GROUP: 22|person"
+msgid "people"
+msgstr "люди"
+
+msgctxt "EMOJI SUB-GROUP: 23|person-gesture"
+msgid "gestures"
+msgstr "жести"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 24|person-role"
+msgid "roles & careers"
+msgstr "ролі та кар'єра"
+
+msgctxt "EMOJI SUB-GROUP: 25|person-fantasy"
+msgid "fantasy"
+msgstr "фантазія"
+
+msgctxt "EMOJI SUB-GROUP: 27|person-sport"
+msgid "athletics"
+msgstr "атлетика"
+
+msgctxt "EMOJI SUB-GROUP: 28|person-resting"
+msgid "resting"
+msgstr "відпочиваючи"
+
+msgctxt "EMOJI SUB-GROUP: 29|family"
+msgid "family"
+msgstr "сімейство"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 30|person-symbol"
+msgid "people symbols"
+msgstr "люди символи"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 31|skin-tone"
+msgid "skin tones"
+msgstr "тони шкіри"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 32|hair-style"
+msgid "hair styles"
+msgstr "зачіски"
+
+msgctxt "EMOJI SUB-GROUP: 33|animal-mammal"
+msgid "mammals"
+msgstr "cсавців"
+
+msgctxt "EMOJI SUB-GROUP: 34|animal-bird"
+msgid "birds"
+msgstr "птахів"
+
+msgctxt "EMOJI SUB-GROUP: 35|animal-amphibian"
+msgid "amphibians"
+msgstr "aмфібії"
+
+msgctxt "EMOJI SUB-GROUP: 36|animal-reptile"
+msgid "reptiles"
+msgstr "плазуни"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 37|animal-marine"
+msgid "marine life"
+msgstr "морське життя"
+
+msgctxt "EMOJI SUB-GROUP: 38|animal-bug"
+msgid "bugs"
+msgstr "помилки"
+
+msgctxt "EMOJI SUB-GROUP: 39|plant-flower"
+msgid "flowers"
+msgstr "квіти"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 40|plant-other"
+msgid "other plants"
+msgstr "інші рослини"
+
+msgctxt "EMOJI SUB-GROUP: 41|food-fruit"
+msgid "fruit"
+msgstr "фрукти"
+
+msgctxt "EMOJI SUB-GROUP: 42|food-vegetable"
+msgid "vegetables"
+msgstr "овощи"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 43|food-prepared"
+msgid "cooked / prepared"
+msgstr "приготований / приготований"
+
+msgctxt "EMOJI SUB-GROUP: 44|food-asian"
+msgid "asian"
+msgstr "aзіатських"
+
+msgctxt "EMOJI SUB-GROUP: 45|food-marine"
+msgid "seafood"
+msgstr "морепродукти"
+
+msgctxt "EMOJI SUB-GROUP: 46|food-sweet"
+msgid "sweets & candy"
+msgstr "цукерки"
+
+msgctxt "EMOJI SUB-GROUP: 47|drink"
+msgid "drink"
+msgstr "питво"
+
+msgctxt "EMOJI SUB-GROUP: 48|dishware"
+msgid "dishware"
+msgstr "посуд"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 49|place-map"
+msgid "globes & maps"
+msgstr "глобуси &amp; карти"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 50|place-geographic"
+msgid "geographic locations"
+msgstr "географічні розташування"
+
+msgctxt "EMOJI SUB-GROUP: 51|place-building"
+msgid "buildings"
+msgstr "будівель"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 52|place-religious"
+msgid "religious buildings"
+msgstr "культові споруди"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 53|place-other"
+msgid "other places"
+msgstr "в інших місцях"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 54|transport-ground"
+msgid "ground transportation"
+msgstr "наземні перевезення"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 55|transport-water"
+msgid "water transportation"
+msgstr "транспортування води"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 56|transport-air"
+msgid "air transportation"
+msgstr "авіаперевезення"
+
+msgctxt "EMOJI SUB-GROUP: 57|hotel"
+msgid "hotel"
+msgstr "готель"
+
+msgctxt "EMOJI SUB-GROUP: 58|time"
+msgid "time"
+msgstr "час"
+
+msgctxt "EMOJI SUB-GROUP: 59|sky-weather"
+msgid "weather"
+msgstr "погода"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 60|event"
+msgid "events & holidays"
+msgstr "події та свята"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 61|award-medal"
+msgid "award medals"
+msgstr "нагородити медалями"
+
+msgctxt "EMOJI SUB-GROUP: 62|sport"
+msgid "sports"
+msgstr "спортивні змагання"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 63|game"
+msgid "games & hobbies"
+msgstr "ігри та хобі"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 64|arts-crafts"
+msgid "arts & crafts"
+msgstr "мистецтво &amp; ремесла"
+
+msgctxt "EMOJI SUB-GROUP: 65|clothing"
+msgid "clothing"
+msgstr "одяг"
+
+msgctxt "EMOJI SUB-GROUP: 66|sound"
+msgid "sound"
+msgstr "звук"
+
+msgctxt "EMOJI SUB-GROUP: 67|music"
+msgid "music"
+msgstr "музики"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 68|musical-instrument"
+msgid "musical instruments"
+msgstr "музичні інструменти"
+
+msgctxt "EMOJI SUB-GROUP: 69|phone"
+msgid "phone"
+msgstr "телефон"
+
+msgctxt "EMOJI SUB-GROUP: 70|computer"
+msgid "computer"
+msgstr "комп'ютер"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 71|light-video"
+msgid "light, film & video"
+msgstr "світло, фільм &amp; відео"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 72|book-paper"
+msgid "books & paper"
+msgstr "книги та папір"
+
+msgctxt "EMOJI SUB-GROUP: 73|money"
+msgid "money"
+msgstr "гроші"
+
+msgctxt "EMOJI SUB-GROUP: 74|mail"
+msgid "mail"
+msgstr "лист"
+
+msgctxt "EMOJI SUB-GROUP: 75|writing"
+msgid "writing"
+msgstr "письмо"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 76|office"
+msgid "office supplies"
+msgstr "офісне приладдя"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 77|lock"
+msgid "lock & keys"
+msgstr "блокування та ключі"
+
+msgctxt "EMOJI SUB-GROUP: 78|tool"
+msgid "tools"
+msgstr "інструменти"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 79|science"
+msgid "science equipment"
+msgstr "наукове обладнання"
+
+msgctxt "EMOJI SUB-GROUP: 80|medical"
+msgid "medical"
+msgstr "медичний"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 81|household"
+msgid "household items"
+msgstr "предмети побуту"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 82|other-object"
+msgid "other objects"
+msgstr "інші об'єкти"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 83|transport-sign"
+msgid "transport signs"
+msgstr "транспортні знаки"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 84|warning"
+msgid "warning symbols"
+msgstr "попереджувальні символи"
+
+msgctxt "EMOJI SUB-GROUP: 85|arrow"
+msgid "arrows"
+msgstr "стрілки"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 86|religion"
+msgid "religious symbols"
+msgstr "релігійні символи"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 87|zodiac"
+msgid "zodiac signs"
+msgstr "знаки зодіаку"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 88|av-symbol"
+msgid "audio & video symbols"
+msgstr "аудіо та відео символи"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 89|gender"
+msgid "gender signs"
+msgstr "гендерні ознаки"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 90|math"
+msgid "math symbols"
+msgstr "математичні символи"
+
+msgctxt "EMOJI SUB-GROUP: 91|punctuation"
+msgid "punctuation"
+msgstr "пунктуація"
+
+msgctxt "EMOJI SUB-GROUP: 92|currency"
+msgid "currencies"
+msgstr "валюти"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 93|other-symbol"
+msgid "other symbols"
+msgstr "інші символи"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 94|keycap"
+msgid "keypad characters"
+msgstr "символи клавіатури"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 95|alphanum"
+msgid "alphanumeric symbols"
+msgstr "буквено-цифрові символи"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 96|geometric"
+msgid "shapes & colors"
+msgstr "фігури та кольори"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 97|flag"
+msgid "other flags"
+msgstr "інші прапорці"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 98|country-flag"
+msgid "country flags"
+msgstr "прапори країни"
+
+#, fuzzy
+msgctxt "EMOJI SUB-GROUP: 99|subdivision-flag"
+msgid "subdivision flags"
+msgstr "прапори підрозділу"

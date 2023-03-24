@@ -1,0 +1,7 @@
+*.log
+build/
+tests/
+tsconfig.json
+
+# Dont publish raw file
+*.raw.json

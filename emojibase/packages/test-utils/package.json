@@ -1,0 +1,49 @@
+{
+  "name": "emojibase-test-utils",
+  "version": "7.0.0",
+  "description": "Test utilities for working with Emojibase data.",
+  "keywords": [
+    "emoji",
+    "emojibase",
+    "tests",
+    "utils"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:milesj/emojibase.git",
+    "directory": "packages/test-utils"
+  },
+  "author": "Miles Johnson",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "types": "./dts/index.d.ts",
+  "files": [
+    "dts/**/*.d.ts",
+    "lib/**/*.{js,map}",
+    "mjs/**/*.{mjs,map}",
+    "src/**/*.{ts,tsx,json}",
+    "test-data.json",
+    "test-messages.json",
+    "test-shortcodes.json"
+  ],
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "emojibase": "*"
+  },
+  "funding": {
+    "type": "ko-fi",
+    "url": "https://ko-fi.com/milesjohnson"
+  },
+  "packemon": {
+    "bundle": true,
+    "format": "lib",
+    "platform": "node"
+  },
+  "engines": {
+    "node": ">=14.15.0",
+    "npm": ">=6.14.0"
+  }
+}

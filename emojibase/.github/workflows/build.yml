@@ -1,0 +1,88 @@
+name: Build
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14, 16, 18]
+      fail-fast: true
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          cache: yarn
+          node-version: ${{ matrix.node-version }}
+      - run: yarn install --immutable
+      - run: yarn run build
+      - run: yarn run type
+      - run: yarn run test
+      - run: yarn run lint
+  pack:
+    name: Pack
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          cache: yarn
+      - run: yarn install --immutable
+      - run: yarn run type
+      - run: yarn run pack
+  locale:
+    name: Locale
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        locale:
+          - da
+          - de
+          - en-gb
+          - es
+          - es-mx
+          - et
+          - fi
+          - fr
+          - hu
+          - it
+          - ja
+          - ko
+          - lt
+          - ms
+          - nb
+          - nl
+          - pl
+          - pt
+          - ru
+          - sv
+          - th
+          - uk
+          - zh
+          - zh-hant
+      fail-fast: true
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          cache: yarn
+      - run: yarn install --immutable
+      - run: yarn run build
+      - run: yarn run test
+        env:
+          TEST_LOCALE: ${{ matrix.locale }}
+  docs:
+    name: Docs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          cache: yarn
+      - run: yarn install --immutable
+      - run: yarn run pack
+      - run: cd website && yarn run build

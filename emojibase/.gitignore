@@ -1,0 +1,52 @@
+
+# Logs
+logs/
+*.log
+
+# Cache
+.eslintcache
+.idea
+.npm
+.vscode
+.yarnclean
+
+# Directories
+_book/
+cache/
+coverage/
+build/
+dts/
+esm/
+lib/
+mjs/
+umd/
+node_modules/
+
+# Custom
+*.min.js
+*.map
+*.mo
+
+# Configs
+webpack.config.js
+*.tsbuildinfo
+
+# Emoji datasets
+# packages/data/*/data.json
+# packages/data/*/compact.json
+# packages/data/*/shortcodes/*.json
+# !packages/data/*/data.raw.json
+# !packages/data/*/compact.raw.json
+# !packages/data/*/shortcodes/*.raw.json
+packages/data/**/*.json
+!packages/data/**/*.raw.json
+!packages/data/meta/*.json
+
+# Yarn
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*

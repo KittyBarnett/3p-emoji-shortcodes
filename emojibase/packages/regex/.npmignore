@@ -1,0 +1,4 @@
+*.log
+build/
+tests/
+tsconfig.json
